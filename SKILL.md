@@ -1,11 +1,9 @@
 ---
 name: generosity-audit
-description: A MacKenzie Scott methodology for identifying hoarded resources that
-  are becoming "ashes" and discovering where releasing them would generate greater
-  value.
+description: A MacKenzie Scott methodology for identifying hoarded resources that are becoming "ashes" and discovering where releasing them would generate greater value.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - generosity-audit
