@@ -4,7 +4,7 @@ description: A MacKenzie Scott methodology for identifying hoarded resources tha
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4080
+  version: 1.0.4081
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - generosity-audit
